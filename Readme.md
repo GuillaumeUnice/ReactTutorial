@@ -1,3 +1,3 @@
 # React Presentation
 
-<a href="https://guillaumeunice.github.io/ReactTutorial/index.html" target="_blank">Here</a>
+<a href="https://guillaumeunice.github.io/ReactTutorial/" target="_blank">Here</a>
